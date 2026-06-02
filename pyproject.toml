@@ -1,9 +1,9 @@
 [project]
 name = "test-mirrors"
 version = "0.1.0"
-description = "Add your description here"
+description = "test pypi simple cn mirrors"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 dependencies = [
     "packaging>=26.2",
     "requests>=2.34.2",
